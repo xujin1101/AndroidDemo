@@ -11,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //组长:版本1
         //组员:刘佳<----------
+        //组员:刘佳<----------
+
         //组员666
     }
 }
